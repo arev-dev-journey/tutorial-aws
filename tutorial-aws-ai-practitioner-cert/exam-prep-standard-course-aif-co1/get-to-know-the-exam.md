@@ -1,9 +1,9 @@
 # Introduction to AWS Certified AI Practitioner
 
-Module 2 provides recommended training
-BuilderLabs and games require a substrctiption
-Module 3 is organized by exam domain
-Step 4: Assess exam readiness
+- Module 2 provides recommended training
+- BuilderLabs and games require a substrctiption
+- Module 3 is organized by exam domain
+- Step 4: Assess exam readiness
 
 # Domains
 
